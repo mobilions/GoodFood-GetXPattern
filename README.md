@@ -50,6 +50,7 @@ Mobilions Team - https://mobilions.nl/contact/
 - connectivity_plus
 - fluttertoast
 
+## License
 MIT License
 
 Copyright (c) 2024 Mobilions Labs
