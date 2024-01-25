@@ -11,8 +11,8 @@ To run Good Food on your local machine, follow these steps:
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/foodie-flutter-app.git
-    cd foodie-flutter-app
+    git clone https://github.com/mobilions/GoodFood-GetXPattern.git
+    cd GoodFood-GetXPattern
     ```
 
 2. **Install Dependencies**
