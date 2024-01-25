@@ -1,0 +1,67 @@
+class AppImages {
+  AppImages._();
+
+  static const String splashIcon = "assets/images/splash_logo_2.png";
+  static const String splashTopIcon = "assets/images/splash_top.png";
+  static const String welcomeBackground = "assets/images/welcome_background.png";
+  static const String facebook = "assets/images/facebook.png";
+  static const String google = "assets/images/google.png";
+  static const String topLeftCircle = "assets/images/top_left_circle.png";
+  static const String topRightCircle = "assets/images/top_right_circle.png";
+  static const String topLeftBigCircle = "assets/images/top_left_big_circle.png";
+  static const String topBackIcon = "assets/images/top_back_icon.png";
+  static const String drawer = "assets/images/drawer.png";
+  static const String profile = "assets/images/profile.png";
+  static const String sort = "assets/svgs/sort.svg";
+  static const String sort2 = "assets/svgs/sort2.svg";
+  static const String drawerSetting = "assets/svgs/setting.svg";
+  static const String drawerProfile = "assets/svgs/profile.svg";
+  static const String drawerPayment = "assets/svgs/payment.svg";
+  static const String drawerOrders = "assets/svgs/orders.svg";
+  static const String drawerHelp = "assets/svgs/helps.svg";
+  static const String drawerContactUs = "assets/svgs/contact_us.svg";
+  static const String drawerAddress = "assets/svgs/address.svg";
+  static const String drawerFavourites = "assets/svgs/favourites.svg";
+  static const String filter = "assets/svgs/filter.svg";
+  static const String bike = "assets/svgs/bike.svg";
+  static const String watch = "assets/svgs/watch.svg";
+  static const String bag = "assets/svgs/bag.svg";
+  static const String delete = "assets/svgs/delete.svg";
+  // static const String starbucks = "assets/svgs/starbucks.svg";
+  static const String logout = "assets/images/logout.png";
+  static const String profileTopLeft = "assets/images/profile_top_left.png";
+  static const String profileTopCenter = "assets/images/profile_top_center.png";
+  static const String profileTopRight = "assets/images/profile_top_right.png";
+  static const String pizza = "assets/images/pizza.png";
+  static const String cone = "assets/images/cone.png";
+  static const String burger = "assets/images/burger.png";
+  static const String donut = "assets/images/donut.png";
+  static const String maxican = "assets/images/maxican.png";
+  static const String asian = "assets/images/asian.png";
+  static const String homeFood1 = "assets/images/home_food1.png";
+  static const String noodle = "assets/images/noodle.png";
+  static const String starbucks = "assets/images/starbucks.png";
+  static const String foodDetail = "assets/images/food_detail.png";
+  static const String mushroom = "assets/images/mushroom.png";
+  static const String redPizza = "assets/images/red_pizza.png";
+  static const String rightPizza = "assets/images/right_pizza.png";
+  static const String addReview = "assets/images/add_review.png";
+  static const String coffee = "assets/images/coffee.png";
+  static const String dominos = "assets/images/dominos.png";
+  static const String pizzaHut = "assets/images/pizza_hut.png";
+  static const String macd = "assets/images/macd.png";
+  static const String burgerKing = "assets/images/burger_king.png";
+  static const String havmore = "assets/images/havmore.png";
+  static const String chines = "assets/images/chines.png";
+  static const String panjabi = "assets/images/panjabi.png";
+  static const String panjabi2 = "assets/images/panjabi2.png";
+  static const String creditCard = "assets/svgs/credit_card.svg";
+  static const String debitCard = "assets/svgs/debit_card.svg";
+  static const String cash = "assets/svgs/cash.svg";
+  static const String orderSuccess = "assets/svgs/order_success.svg";
+
+  static const String facebookIcon = "assets/svgs/facebook.svg";
+  static const String twitter = "assets/svgs/twitter.svg";
+  static const String instagram = "assets/svgs/instagram.svg";
+
+}
