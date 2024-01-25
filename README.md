@@ -39,7 +39,7 @@ Contributions are what make the open source community such an amazing place to l
 5. Open a Pull Request
 
 ## Contact
-Mobilions Team - ([))
+Mobilions Team - https://mobilions.nl/contact/
 
 ## Acknowledgements
 - Flutter Documentation
