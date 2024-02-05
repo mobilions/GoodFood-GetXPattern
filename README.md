@@ -26,8 +26,8 @@ To run Good Food on your local machine, follow these steps:
     ```
 
 ## Requirements
-- Flutter 2.x
-- Dart 2.x
+- Flutter 3.x
+- Dart 3.x
 
 ## Contribution
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
